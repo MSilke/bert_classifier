@@ -1,4 +1,3 @@
 # bert_classifier
-A MR dataset classify task.
+配置python代码中的相关环境，运行bert_classifier.py即可
 
-After configuring the basic environment for Python, run bert_classifier.py to train a bert model.
